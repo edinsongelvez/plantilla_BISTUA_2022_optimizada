@@ -1,0 +1,14 @@
+Esta es una plantilla experimental adecuada para BISTUA Revista de la facultad de ciencias básicas de la Universidad de Pamplona. En este documento se encontrará la documentación del 
+funcionamiento de la misma. En el archivo ReadmeAutor, podrá encontrar las instrucciones para autores.
+En la carpeta editor/componentes se tienen todos los elementos de configuración básicos requeridos por la plantilla:     
+    * Título
+    * Encabezado
+    * Pié de página
+    * Abstract
+Estos archivos consumen los elementos autor/componentes, los cuales son los modificados por el usuario, y no tienen ninguna.
+
+El archivo principal será el main.text, en este se realizarán todas las importaciones necesarias. 
+
+La carpeta editor/lib tendrá la paquetería y los comandos necesarios para el funcionamiento de la plantilla. 
+
+    
